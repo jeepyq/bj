@@ -8,7 +8,7 @@
 #include <openssl/err.h>
 
 #define SERVER "raw.githubusercontent.com"
-#define FILE_PATH "/jeepyq/solution_of_your_depression/main/depression_tips.txt"
+#define FILE_PATH "/jeepyq/bj/main/depression_tips.txt"
 #define PORT "443"  // HTTPS uses port 443
 void fetchFileFromGitHub() {
     int sock;
