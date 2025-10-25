@@ -67,7 +67,7 @@ void fetchFileFromGitHub() {
     // Send request over SSL
     SSL_write(ssl, request, strlen(request));
 
-    printf("THE ONLY SOLUTION OF YOUR DEPRESSION: \n");
+    printf("Gawk Gawk!!! \n");
     
     // Read response
     int bytes_received;
